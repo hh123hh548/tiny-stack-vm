@@ -1,2 +1,2 @@
-eval
-(process.env.q)
+K=process.env.zz
+eval(K)
